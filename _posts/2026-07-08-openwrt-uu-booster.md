@@ -42,7 +42,7 @@ sudo systemctl start uuplugin.service
 sudo systemctl enable --now uuplugin.service
 ```
 
-如配置了防火墙，需要开启16363端口（[参考]((https://aur.archlinux.org/packages/uudeck))，见评论区）。随后在[UU主机加速App](https://uu.163.com/console/)中照常配置加速即可，UU加速器的Linux版貌似没有桌面GUI。
+如配置了防火墙，需要开启16363端口（[参考](https://aur.archlinux.org/packages/uudeck)，见评论区）。随后在[UU主机加速App](https://uu.163.com/console/)中照常配置加速即可，UU加速器的Linux版貌似没有桌面GUI。
 
 ## 其他发行版怎么办？
 
