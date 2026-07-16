@@ -24,6 +24,9 @@ sudo hostnamectl set-hostname steamdeck
 
 ## 安装Linux版UU加速器
 
+> ### 三天使用后追加...
+> 写完文章之后又使用了几遍，发现uudeck-bwrap在系统重启后容易掉，需要频繁在App中重新绑定，目前已转原始的[uudeck](https://aur.archlinux.org/packages/uudeck)。虽然理论上文件系统隔离不如前者，但目前测试下来体验略好过前者。建议安装尝试找到适合自己系统的版本。如欲安装，则需将下述指令的`paru uudeck-bwrap`替换为`paru uudeck`。启动服务的指令保持不变。
+
 如果是Arch系系统，推荐安装AUR的[uudeck-bwrap](https://aur.archlinux.org/packages/uudeck-bwrap)，版本最近刚刚更新。此处使用[paru](https://github.com/morganamilo/paru)：
 
 ```sh
