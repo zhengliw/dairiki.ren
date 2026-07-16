@@ -5,7 +5,7 @@ categories: [经验分享, Linux桌面]
 tags: [uu, linux, openwrt, arch, aur]
 ---
 
-![CS2游戏截图](../assets/images/2026-07-09-openwrt-uu-booster-cs2screenshot.jpg)  
+![CS2游戏截图](../assets/images/2026-07-09-openwrt-uu-booster-cs2screenshot.jpg)
 *延迟120ms。。。但是也不是不能打～*
 
 前几天心血来潮，在台式机上重新安装了Linux，而这次选择的发行版是基于Arch的[CachyOS](https://cachyos.org)。想到有时候想跟国内朋友一起玩CS2，下定决心研究一下在Linux上运行UU加速器的方法。经过一天半的尝试，总结出了以下经验。
