@@ -8,6 +8,9 @@
   icon: "fa-brands fa-x-twitter"
   url: "https://x.com/dairiki_wtmn"
 
+- type: github
+  icon: "fab fa-github"
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
@@ -20,7 +23,6 @@
 
 # - type: github
 #   icon: "fab fa-github"
-
 
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
